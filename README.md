@@ -1,4 +1,4 @@
-##WIP
+#WIP
 
 App to help organizing your daily life.
 
