@@ -1,4 +1,5 @@
-# hello-world
-Test repository,
+##WIP
 
-GitHub isn't as complicated as it looks. It's really gonna help me in my dev projects !
+App to help organizing your daily life.
+
+Made in fullstack Rust, with Axum on the backend and Leptos for the frontend.
