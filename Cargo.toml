@@ -1,6 +1,10 @@
-[package]
-name = "organizator3000"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
+[workspace]
+resolver = "3"
+members = [
+    "crates/orgzr-core",
+    "crates/orgzr-cli",
+    "crates/orgzr-mealz",
+    "crates/orgzr-tui",
+    "crates/orgzr-utilz",
+]
+# Ici, on pourra mettre des dépendances communes à tous les crates plus tard
